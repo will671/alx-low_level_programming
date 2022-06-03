@@ -5,7 +5,7 @@ int main(void)
 	
 	char funny;
 	int huge;
-	long along
+	long along;
 	long long grain;
 	float goat;
  	printf("Size of a char: %lu byte(s)\n", sizeof(funny));	
